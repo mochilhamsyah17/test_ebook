@@ -1,0 +1,79 @@
+.templateCard{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    z-index: 0;
+}
+
+.card{
+    margin-left: 1vh;
+    margin-right: 1vh;
+    margin-top: 2vh;
+    width: 16rem;
+}
+
+.e-book-jurusan{
+    margin-left: 18vh;
+    margin-top: 6vh;
+    margin-right: 20vh;
+    margin-bottom: -4vh;
+}
+
+.e-book-jurusan > p{
+    font-size: 3vh;
+}
+
+.ImgSize{
+    width: 15.9rem;
+    height: 20rem;
+}
+
+.size-deskripsi-card{
+    font-size: 2.3vh;
+}
+
+.button-lihat{
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+}
+
+.close-btn{
+    padding-left: 13em;
+    margin-top: -0.4em;
+}
+
+.popup{
+    background-color: rgba(0, 0, 0, .8);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    visibility: hidden;
+    transition: all .3s;
+}
+
+.card-alert{
+    margin-top: 10%;
+}
+
+#popup:target{
+    visibility: visible;
+}
+
+#searchBar{
+    padding-left: 2vh;
+    margin-bottom: 2vh;
+}
+
+/* .form-control{
+    margin-top: -1vh;
+    margin-bottom: -2vh;
+} */
+
+#formGroupExampleInput{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 0 0 0 rgba(0, 0, 0, 0.19);
+}
+
+#card-buku{    
+    height: 34rem;
+}

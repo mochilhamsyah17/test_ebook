@@ -1,0 +1,45 @@
+.templateCard {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+.card {
+  margin-left: 1vh;
+  margin-right: 1vh;
+  margin-top: 2vh;
+  width: 30em;
+}
+
+#card-buku {
+  height: 50em;
+}
+
+.e-book-jurusan {
+  margin-left: 10vh;
+  margin-top: 6vh;
+  margin-right: 30vh;
+  margin-bottom: -4vh;
+}
+
+.e-book-jurusan > p {
+  font-size: 3vh;
+}
+
+.ImgSize {
+  width: 16rem;
+  height: 20rem;
+}
+
+.size-deskripsi-card {
+  font-size: 2.3vh;
+}
+
+.button-lihat {
+  margin-top: 4vh;
+  margin-bottom: 1vh;
+}
+
+#searchBar {
+  padding-left: 2vh;
+  margin-bottom: 2vh;
+}

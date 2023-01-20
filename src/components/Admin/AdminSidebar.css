@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #fff;
+}
+
+.navbar-admin {
+  width: 250px;
+  height: 100vh;
+  position: absolute;
+}
+
+.content-admin {
+  margin-left: 40vh;
+  margin-top: 5vh;
+}
+
+.title-admin {
+  font-weight: bolder;
+  font-size: 5vh;
+}
